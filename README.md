@@ -7,12 +7,12 @@ Backpropagation is a method used to train ANNs by calculating gradient needed to
 # Implementation
 The given dataset consists of parameters like :
 
-FFMC
-DMC
-DC
-ISI
-temp
-RH
-wind
-area
-The model is supposed to predict whether there will be fire or not based on these parameters.
+FFMC,
+DMC,
+DC,
+ISI,
+temp,
+RH,
+wind,
+area.
+ The model is supposed to predict whether there will be fire or not based on these parameters.
